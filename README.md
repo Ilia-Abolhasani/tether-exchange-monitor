@@ -17,9 +17,6 @@ This is a Python project for monitoring tether price in sevreal exchanges and se
 
 3. Create a .env file from the provided .env.template and fill in the necessary information:
   ```bash
-    # Alpari
-    alpari_email = ""
-    alpari_password = ""
     # Telegram Bot API Key
     bot_api_key = ""
     channel_id = ""
